@@ -1,2 +1,43 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Breaking Bad</title>
+	<link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Chivo+Mono&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="C:\Users\USER\OneDrive\Desktop\Jameel.css">
+	<link rel="icon" href="C:/Users/USER/OneDrive/Desktop/downloads.jpg">
+</head>
+<body>
+<!-- Header elements-->
+<header>
+	<img src="C:/Users/USER/OneDrive/Desktop/downloads.jpg">
+	<h1>Walter White</h1>
+</header>
+
+<!-- Main element -->
+<main>
+	<h2>Back Story</h2>
+	<p>“Breaking Bad” captivated television audiences with a storyline about Walter White, a high school chemistry teacher who is diagnosed with lung cancer and worries about the financial security of his family after his demise, which appears to be imminent.</p>
+	<img src="C:/Users/USER/OneDrive/Desktop/download.jpg">
+	<!-- Characteristics -->
+	<h2>Walter White's Characteristics</h2>
+	<ol>
+		<li>He's got a hight IQ and a huge experience in chemistry field</li>
+		<li>He's one of the most dangerous drug dealers in the USA</li>
+		<li>He goes under the name of Heizenburg</li>
+		<li>He's a lung cancer patient</li>
+	</ol>
+	<h2>Walter's surroundings</h2>
+	<p> Walter has alot of people surrounding him some of them are supportive for what he does, but the others are dogshit. I dare you to click here!</p>
+	<ul>
+		<a href="https://youtu.be/dQw4w9WgXcQ"target=_blank>CLICK ME</a>
+	</ul>
+</main>
+<!-- Footer Element -->
+<footer>
+	<p>This site was created by <a href="https://instagram.com/mahmouddabboura?igshid=YmMyMTA2M2Y="target=_blank>Mahmoud</a> l3aziz wl 8ali. &copy; Mahmoud Dabboura</p>
+</footer>
+</body>
+</html>
